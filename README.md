@@ -7,5 +7,9 @@ fork this repo and start your work
 </h5>
 
 #### GUI
+```sh
+   The homepage of the GUI, click the "Recognize" button to start recognizing </br>
+   Press the "Bored?" button to play the game.
+ ```
  <img src="gui.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
 </div>
