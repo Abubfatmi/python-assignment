@@ -49,3 +49,7 @@ we will use another module called [pytransition](https://github.com/pytransition
  ```
  <img src="assets/bey.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
 </div>
+
+# DEMO
+
+![]("assets/demo.gif")
