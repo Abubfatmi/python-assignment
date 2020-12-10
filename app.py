@@ -14,6 +14,7 @@ from main import bey
 BLUE = (106, 159, 181)
 WHITE = (255, 255, 255)
 
+
 class Bipolar:
     def __init__(self,machine_name):
         self.states = ['MachineActive', 'MachineInactive']
