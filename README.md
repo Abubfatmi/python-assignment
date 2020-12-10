@@ -11,14 +11,14 @@ fork this repo and start your work
    The homepage of the GUI, click the "Recognize" button to start recognizing 
    Press the "Bored?" button to play the game.
  ```
- <img src="gui.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
+ <img src="assets/gui.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
 </div>
 
 #### Capture Page
 ```sh
    Press the "Capture" button to take a photo of the person in front of the camera which shall then be analyzed
  ```
- <img src="gui2.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
+ <img src="assets/gui2.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
 </div>
 
 #### Recognized Face
@@ -26,12 +26,12 @@ fork this repo and start your work
    The face once recognised shall be displayed as shown: 
    PS: Don't expect a DP worthy pic to be taken xD
  ```
- <img src="aah.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
+ <img src="assets/aah.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
 </div>
 
 #### Beyblade Game
 ```sh
    Recognizing faces could be boring....take a break!
  ```
- <img src="bey.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
+ <img src="assets/bey.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
 </div>
