@@ -16,6 +16,10 @@ the faces match, a green box with the name of the person appears.This output is 
 module, which is used to make an interactive GUI. During this whole process our machine goes through many states, and as asked by the assigners 
 the program was supposed to be written on [Finite State Machine](https://medium.com/@mlbors/what-is-a-finite-state-machine-6d8dec727e2c), for this
 we will use another module called [pytransition](https://github.com/pytransitions/transitions) which is a lightweight, object-oriented state machine implementation in Python with many extensions. All together with these modules the above project is made.
+
+# Screenshots
+
+
 #### Homepage
 ```sh
    The homepage of the GUI, click the "Recognize" button to start recognizing 
