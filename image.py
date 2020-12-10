@@ -29,10 +29,6 @@ screen=blitCamFrame(frame,screen)
 pygame.display.flip()
 pygame.image.save(screen, 'C:\\Users\\abuba\\OneDrive\\Desktop\\facerec\\unknown_faces\\aah2'+'.jpg')
 
-# running=True
-# while running:
-#     for event in pygame.event.get(): #process events since last loop cycle
-#         if event.type == KEYDOWN:
-#             running=False
+
 pygame.quit()
 cv2.destroyAllWindows()
