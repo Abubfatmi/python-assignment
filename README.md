@@ -52,4 +52,4 @@ we will use another module called [pytransition](https://github.com/pytransition
 
 # DEMO
 
-![]("assets/demo.gif")
+![](assets/demo.gif)
