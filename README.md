@@ -6,6 +6,14 @@ fork this repo and start your work
  <h5 align = "left">Using face_recognition library to recognize the face of the person infornt of the camera and using Pygame for the Graphical User Interface(GUI) of the following, also has a beyblade game if the user is bored.
 </h5>
 
+  ![GitHub issues](https://img.shields.io/github/issues/Abubfatmi/python-assignment)
+  ![PyPI](https://img.shields.io/pypi/v/selenium?color=%09&label=selenium&style=flat)
+  ![GitHub](https://github.com/Abubfatmi/python-assignment)
+  ![GitHub top language](https://img.shields.io/github/languages/top/AkshatJoshi2000/P.U.B---Plus-Ultra-Bot)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Abubfatmi/python-assignment)
+  ![GitHub contributors](https://img.shields.io/github/contributors/AkshatJoshi2000/P.U.B---Plus-Ultra-Bot)
+  ![Instagram](https://www.instagram.com/aka_abu/)
+
 ### How it works
 This facial recognition program uses multiple library and modules, unlike our usual 
 OpenCV and Tensorflow/Pytorch model we are using a pre exisitng solution i.e. 
