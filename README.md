@@ -21,4 +21,11 @@ fork this repo and start your work
  <img src="gui2.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
 </div>
 
+#### Recognized Face
+```sh
+   The face once recognised shall be displayed as shown: 
+   PS: Don't expect a DP worthy pic to be taken xD
+ ```
+ <img src="aah.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
+</div>
 
