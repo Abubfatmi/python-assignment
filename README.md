@@ -7,8 +7,5 @@ fork this repo and start your work
 </h5>
 
 #### GUI
-```sh
-   pub/g slap @member  #Can also be used without providing the the member argument           
- ```
- <img src="Assets/gif.png" alt="PLUS ULTRA" width = 270px, height = 240px></a>
+ <img src="gui.jpg" alt="FACE RECOG" width = 270px, height = 240px></a>
 </div>
