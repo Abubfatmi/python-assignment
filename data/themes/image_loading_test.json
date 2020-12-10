@@ -1,0 +1,17 @@
+{
+    "button": {
+        "misc": {
+            "shape": "rectangle",
+            "border_width": "1",
+            "shadow_width": "2"
+        }
+    },
+    "#1": {
+        "images": {
+            "normal_image": {
+                "package": "FACEREC",
+                "resource": "aah.jpg"
+            }
+        }
+    }
+}
